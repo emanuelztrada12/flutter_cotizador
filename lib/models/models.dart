@@ -1,0 +1,12 @@
+export 'package:cotizador/models/destination_response.dart';
+export 'package:cotizador/models/destination.dart';
+export 'package:cotizador/models/sectores_response.dart';
+export 'package:cotizador/models/sectores.dart';
+export 'package:cotizador/models/search_response.dart';
+export 'package:cotizador/models/search.dart';
+export 'package:cotizador/models/compania_response.dart';
+export 'package:cotizador/models/compania.dart';
+export 'package:cotizador/models/despacho_response.dart';
+export 'package:cotizador/models/despacho.dart';
+export 'package:cotizador/models/bodega_response.dart';
+export 'package:cotizador/models/bodega.dart';
